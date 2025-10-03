@@ -7,7 +7,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-color: #3ae374; */
-  background-color: #27ae60;
+  background-color: #ff3832;
 }
 .elementor-8
   .elementor-element.elementor-element-7c4806c
@@ -39,7 +39,7 @@
   .elementor-element.elementor-element-bca7909
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #009432;
+  background-color: #cbdc3e;
 }
 .elementor-8 .elementor-element.elementor-element-bca7909 {
   border-style: solid;
@@ -114,7 +114,7 @@
   .elementskit-navbar-nav
   > li
   > a {
-    font-size: 18px;
+  font-size: 18px;
   font-family: "Preahvihear", Sans-serif;
   color: #180500;
   padding: 0px 15px 0px 15px;
@@ -316,7 +316,7 @@
   font-weight: var(--e-global-typography-accent-font-weight);
 }
 .elementor-8 .elementor-element.elementor-element-5489b46 .elementor-button {
-  background-color: #32ff7e;
+  background-color: #5cb007;
   height: 50px;
   width: 164px;
   -webkit-box-pack: center;
@@ -343,7 +343,7 @@
 .elementor-8
   .elementor-element.elementor-element-5489b46
   .elementor-button:focus {
-  background-color: #32ff7e;
+  background-color: #5cb007;
 }
 .elementor-8 .elementor-element.elementor-element-5489b46 {
   width: var(--container-widget-width, 87.714%);
@@ -368,7 +368,8 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   /* background-image: url("./images/banner.jpg"); */
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url('./images/banner.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
+    url("./images/banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -437,7 +438,7 @@
   color: var(--e-global-color-f0fff9f);
 }
 .elementor-8 .elementor-element.elementor-element-623e174 .elementor-button {
-  background-color: #32ff7e;
+  background-color: #fff;
   height: 50px;
   width: 185px;
   -webkit-box-pack: center;
@@ -459,7 +460,7 @@
   box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.5);
 }
 .elementor-8 .elementor-element.elementor-element-663f8d9 .elementor-button {
-  background-color: #009432;
+  background-color: #fff;
   height: 50px;
   width: 185px;
   -webkit-box-pack: center;
@@ -494,11 +495,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(
-    180deg,
-    #2ecc71 50%,
-    #27ae60 50%
-  );
+  background-image: linear-gradient(180deg, #5cb007 50%, #cbdc3e 50%);
 }
 .elementor-8 .elementor-element.elementor-element-bbdb3a7 {
   border-style: solid;
@@ -520,7 +517,7 @@
   .elementor-element.elementor-element-2986fd3
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #7bed9f;
+  background-color: #cbdc3e;
 }
 .elementor-8 .elementor-element.elementor-element-2986fd3 {
   border-style: solid;
@@ -596,7 +593,7 @@
 .elementor-8
   .elementor-element.elementor-element-0f079dd
   > .elementor-widget-container {
-  background-color: #ffe7cd;
+  background-color: #5cb007;
   margin: 0em 0em 0em 0em;
   padding: 5px 15px 5px 15px;
   border-style: solid;
@@ -651,7 +648,7 @@
   .elementor-element.elementor-element-9c51719
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #7bed9f;
+  background-color: #5cb007;
 }
 .elementor-8 .elementor-element.elementor-element-9c51719 {
   border-style: solid;
@@ -690,7 +687,7 @@
   .elementor-element.elementor-element-e7accee
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #2ecc71;
+  background-color: #cbdc3e;
 }
 .elementor-8
   .elementor-element.elementor-element-e7accee
@@ -757,7 +754,7 @@
   .elementor-element.elementor-element-628638a
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #3ae374;
+  background-color: #5cb007;
 }
 .elementor-8 .elementor-element.elementor-element-628638a {
   border-style: solid;
@@ -1298,11 +1295,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(
-    180deg,
-    #2ecc71 50%,
-    #27ae60 50%
-  );
+  background-image: linear-gradient(180deg, #5cb007 50%, #5cb007 50%);
 }
 .elementor-8 .elementor-element.elementor-element-43225ed {
   border-style: solid;
@@ -1372,7 +1365,7 @@
   .elementor-element.elementor-element-60add74
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #27ae60;
+  background-color: #cbdc3e;
 }
 .elementor-8
   .elementor-element.elementor-element-60add74
@@ -1394,7 +1387,7 @@
   .elementor-element.elementor-element-0676b86
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #3ae374;
+  background-color: #5cb007;
   /* background-image: url("https://skimaskpeanut.com/wp-content/uploads/2024/12/Ski-Mask-Peanut-Boardroom.png"); */
   /* background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url('./images/banner.jpg'); */
   background-position: center center;
@@ -1403,7 +1396,7 @@
 .elementor-8
   .elementor-element.elementor-element-0676b86
   > .elementor-background-overlay {
-  background-color: var(--e-global-color-4f029e3);
+  /* background-color: var(--e-global-color-4f029e3); */
   opacity: 0.36;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -2023,11 +2016,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(
-    180deg,
-    #2ecc71 50%,
-    #27ae60 50%
-  );
+  background-image: linear-gradient(180deg, #5cb007 50%, #5cb007 50%);
 }
 .elementor-8 .elementor-element.elementor-element-bcaf13d {
   border-style: solid;
@@ -2097,7 +2086,7 @@
   .elementor-element.elementor-element-60a811e
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #2ecc71;
+  background-color: #eceb86;
 }
 .elementor-8
   .elementor-element.elementor-element-60a811e
@@ -2260,11 +2249,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(
-    180deg,
-    #2ecc71 50%,
-    #27ae60 50%
-  );
+  background-image: linear-gradient(180deg, #5cb007 50%, #5cb007 50%);
 }
 .elementor-8 .elementor-element.elementor-element-0279152 {
   border-style: solid;
@@ -2326,7 +2311,7 @@
   .elementor-element.elementor-element-7964e18
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #27ae60;
+  background-color: #cbdc3e;
 }
 .elementor-8
   .elementor-element.elementor-element-7964e18
@@ -2357,7 +2342,7 @@
   .elementor-element.elementor-element-16b9e0f
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #7bed9f;
+  background-color: #ff3832;
 }
 .elementor-8 .elementor-element.elementor-element-16b9e0f {
   border-style: solid;
@@ -2439,7 +2424,8 @@
 .elementor-8
   .elementor-element.elementor-element-50e0b0f
   .elementor-social-icon {
-  background-color: var(--e-global-color-text);
+  /* background-color: var(--e-global-color-text); */
+  background-color: #fff;
   --icon-padding: 0.4em;
   border-style: solid;
   border-width: 2px 2px 2px 2px;
@@ -2738,8 +2724,8 @@
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
     /* background-image: url("https://skimaskpeanut.com/wp-content/uploads/2024/12/Ski-Mask-Peanut-Boardroom.png"); */
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url('./images/banner.jpg');
-
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
+      url("./images/banner.jpg");
   }
   .elementor-8
     .elementor-element.elementor-element-0676b86
