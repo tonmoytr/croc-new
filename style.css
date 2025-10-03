@@ -114,6 +114,7 @@
   .elementskit-navbar-nav
   > li
   > a {
+    font-size: 18px;
   font-family: "Preahvihear", Sans-serif;
   color: #180500;
   padding: 0px 15px 0px 15px;
@@ -1395,7 +1396,7 @@
   > .elementor-motion-effects-layer {
   background-color: #3ae374;
   /* background-image: url("https://skimaskpeanut.com/wp-content/uploads/2024/12/Ski-Mask-Peanut-Boardroom.png"); */
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url('./images/banner.jpg');
+  /* background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url('./images/banner.jpg'); */
   background-position: center center;
   background-size: cover;
 }
